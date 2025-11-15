@@ -27,7 +27,7 @@ app.use(
 
 // Test Route
 app.get("/", (req, res) => {
-  res.send("API is running successfully 🚀");
+  res.send("API is running successfully ");
 });
 
 // Connect Mongo
